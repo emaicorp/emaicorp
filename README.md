@@ -23,7 +23,7 @@ I'm a passionate science student with a keen interest in technology and programm
 - **Web Design:** Tips and best practices for creating user-friendly interfaces.
 
 #### 📫 How to reach me
-- **Email:** [emmanuel@example.com](mailto:emmanuel@example.com)
+- **Email:** [emmanuel@example.com](mailto:emaicorp@gmail.com)
 - **LinkedIn:** [Ifediba Emmanuel](https://www.linkedin.com/in/ifediba-emmanuel/)
 
 #### 😄 Pronouns
