@@ -20,7 +20,7 @@ I'm a science student passionate about technology and programming, currently foc
 - Front-end, TypeScript, and UX/UI
 
 #### 📫 Reach Me
-- **Email:** [emmanuel@example.com](mailto:emaicorp@gmail.com)
+- **Email:** [emaicorp@gmail.com](mailto:emaicorp@gmail.com)
 - **LinkedIn:** [Ifediba Emmanuel](https://www.linkedin.com/in/ifediba-emmanuel/)
 
 #### ⚡ Fun fact
